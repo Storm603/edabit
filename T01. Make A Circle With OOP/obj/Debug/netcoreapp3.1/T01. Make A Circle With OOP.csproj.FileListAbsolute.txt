@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\edabit Exercise\T01. Make A Circle With OOP\bin\Debug\netcoreapp3.1\T01. Make A Circle With OOP.exe
+C:\Users\Kristiyan\source\repos\edabit Exercise\T01. Make A Circle With OOP\bin\Debug\netcoreapp3.1\T01. Make A Circle With OOP.deps.json
+C:\Users\Kristiyan\source\repos\edabit Exercise\T01. Make A Circle With OOP\bin\Debug\netcoreapp3.1\T01. Make A Circle With OOP.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\edabit Exercise\T01. Make A Circle With OOP\bin\Debug\netcoreapp3.1\T01. Make A Circle With OOP.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\edabit Exercise\T01. Make A Circle With OOP\bin\Debug\netcoreapp3.1\T01. Make A Circle With OOP.dll
+C:\Users\Kristiyan\source\repos\edabit Exercise\T01. Make A Circle With OOP\bin\Debug\netcoreapp3.1\T01. Make A Circle With OOP.pdb
+C:\Users\Kristiyan\source\repos\edabit Exercise\T01. Make A Circle With OOP\obj\Debug\netcoreapp3.1\T01. Make A Circle With OOP.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\edabit Exercise\T01. Make A Circle With OOP\obj\Debug\netcoreapp3.1\T01. Make A Circle With OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\edabit Exercise\T01. Make A Circle With OOP\obj\Debug\netcoreapp3.1\T01. Make A Circle With OOP.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\edabit Exercise\T01. Make A Circle With OOP\obj\Debug\netcoreapp3.1\T01. Make A Circle With OOP.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\edabit Exercise\T01. Make A Circle With OOP\obj\Debug\netcoreapp3.1\T01. Make A Circle With OOP.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\edabit Exercise\T01. Make A Circle With OOP\obj\Debug\netcoreapp3.1\T01. Make A Circle With OOP.dll
+C:\Users\Kristiyan\source\repos\edabit Exercise\T01. Make A Circle With OOP\obj\Debug\netcoreapp3.1\T01. Make A Circle With OOP.pdb
+C:\Users\Kristiyan\source\repos\edabit Exercise\T01. Make A Circle With OOP\obj\Debug\netcoreapp3.1\T01. Make A Circle With OOP.genruntimeconfig.cache

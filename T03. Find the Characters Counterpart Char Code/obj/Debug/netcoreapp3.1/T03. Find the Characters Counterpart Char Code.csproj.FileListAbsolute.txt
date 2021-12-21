@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\edabit Exercise\T03. Find the Characters Counterpart Char Code\bin\Debug\netcoreapp3.1\T03. Find the Characters Counterpart Char Code.exe
+C:\Users\Kristiyan\source\repos\edabit Exercise\T03. Find the Characters Counterpart Char Code\bin\Debug\netcoreapp3.1\T03. Find the Characters Counterpart Char Code.deps.json
+C:\Users\Kristiyan\source\repos\edabit Exercise\T03. Find the Characters Counterpart Char Code\bin\Debug\netcoreapp3.1\T03. Find the Characters Counterpart Char Code.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\edabit Exercise\T03. Find the Characters Counterpart Char Code\bin\Debug\netcoreapp3.1\T03. Find the Characters Counterpart Char Code.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\edabit Exercise\T03. Find the Characters Counterpart Char Code\bin\Debug\netcoreapp3.1\T03. Find the Characters Counterpart Char Code.dll
+C:\Users\Kristiyan\source\repos\edabit Exercise\T03. Find the Characters Counterpart Char Code\bin\Debug\netcoreapp3.1\T03. Find the Characters Counterpart Char Code.pdb
+C:\Users\Kristiyan\source\repos\edabit Exercise\T03. Find the Characters Counterpart Char Code\obj\Debug\netcoreapp3.1\T03. Find the Characters Counterpart Char Code.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\edabit Exercise\T03. Find the Characters Counterpart Char Code\obj\Debug\netcoreapp3.1\T03. Find the Characters Counterpart Char Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\edabit Exercise\T03. Find the Characters Counterpart Char Code\obj\Debug\netcoreapp3.1\T03. Find the Characters Counterpart Char Code.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\edabit Exercise\T03. Find the Characters Counterpart Char Code\obj\Debug\netcoreapp3.1\T03. Find the Characters Counterpart Char Code.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\edabit Exercise\T03. Find the Characters Counterpart Char Code\obj\Debug\netcoreapp3.1\T03. Find the Characters Counterpart Char Code.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\edabit Exercise\T03. Find the Characters Counterpart Char Code\obj\Debug\netcoreapp3.1\T03. Find the Characters Counterpart Char Code.dll
+C:\Users\Kristiyan\source\repos\edabit Exercise\T03. Find the Characters Counterpart Char Code\obj\Debug\netcoreapp3.1\T03. Find the Characters Counterpart Char Code.pdb
+C:\Users\Kristiyan\source\repos\edabit Exercise\T03. Find the Characters Counterpart Char Code\obj\Debug\netcoreapp3.1\T03. Find the Characters Counterpart Char Code.genruntimeconfig.cache

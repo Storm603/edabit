@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\edabit Exercise\T02. Multiply by Length\bin\Debug\netcoreapp3.1\T02. Multiply by Length.exe
+C:\Users\Kristiyan\source\repos\edabit Exercise\T02. Multiply by Length\bin\Debug\netcoreapp3.1\T02. Multiply by Length.deps.json
+C:\Users\Kristiyan\source\repos\edabit Exercise\T02. Multiply by Length\bin\Debug\netcoreapp3.1\T02. Multiply by Length.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\edabit Exercise\T02. Multiply by Length\bin\Debug\netcoreapp3.1\T02. Multiply by Length.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\edabit Exercise\T02. Multiply by Length\bin\Debug\netcoreapp3.1\T02. Multiply by Length.dll
+C:\Users\Kristiyan\source\repos\edabit Exercise\T02. Multiply by Length\bin\Debug\netcoreapp3.1\T02. Multiply by Length.pdb
+C:\Users\Kristiyan\source\repos\edabit Exercise\T02. Multiply by Length\obj\Debug\netcoreapp3.1\T02. Multiply by Length.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\edabit Exercise\T02. Multiply by Length\obj\Debug\netcoreapp3.1\T02. Multiply by Length.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\edabit Exercise\T02. Multiply by Length\obj\Debug\netcoreapp3.1\T02. Multiply by Length.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\edabit Exercise\T02. Multiply by Length\obj\Debug\netcoreapp3.1\T02. Multiply by Length.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\edabit Exercise\T02. Multiply by Length\obj\Debug\netcoreapp3.1\T02. Multiply by Length.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\edabit Exercise\T02. Multiply by Length\obj\Debug\netcoreapp3.1\T02. Multiply by Length.dll
+C:\Users\Kristiyan\source\repos\edabit Exercise\T02. Multiply by Length\obj\Debug\netcoreapp3.1\T02. Multiply by Length.pdb
+C:\Users\Kristiyan\source\repos\edabit Exercise\T02. Multiply by Length\obj\Debug\netcoreapp3.1\T02. Multiply by Length.genruntimeconfig.cache
